@@ -3,6 +3,6 @@ This is for class
 ## About
 This is me typing things
 ### Team
-me
+me and me
 ## Setup & Requirements
 Stuff and Things
