@@ -1,8 +1,8 @@
 # test_repository
-This is for class
+This is for INFX551
 ## About
-This is me typing things
+This is me attempting to learn how to use this
 ### Team
-me and me
+Us
 ## Setup & Requirements
-Stuff and Things
+Interwebs
